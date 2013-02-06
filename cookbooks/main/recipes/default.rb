@@ -1,3 +1,5 @@
+require_recipe 'quartz_crons'
+
 #execute "testing" do
 #  command %Q{
 #    echo "i ran at #{Time.now}" >> /root/cheftime
